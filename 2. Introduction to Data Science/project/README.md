@@ -54,3 +54,7 @@ When dealing with the datasets, pay attention to the reviews.parqeuts file, you 
 As github only allow to upload 25MB file the split and conversion into parquet was one of the few option available. 
 Run the notebook cells sequentially to execute the analysis and generate visualizations.
 Review the findings and insights provided throughout the notebook.
+
+# Article
+Here's the link for the blog article:
+https://medium.com/@thenada92/the-rise-of-valencia-tourism-analyzing-airbnb-data-87d2a00d0261
