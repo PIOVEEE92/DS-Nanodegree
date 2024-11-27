@@ -50,5 +50,7 @@ You can install these libraries using pip:
 # Usage
 Clone or download the repository containing the notebook.
 Open the notebook in your preferred Jupyter environment (e.g., Jupyter Notebook, JupyterLab).
+When dealing with the datasets, pay attention to the reviews.parqeuts file, you should convert them into csv and join them together.
+As github only allow to upload 25MB file the split and conversion into parquet was one of the few option available. 
 Run the notebook cells sequentially to execute the analysis and generate visualizations.
 Review the findings and insights provided throughout the notebook.
