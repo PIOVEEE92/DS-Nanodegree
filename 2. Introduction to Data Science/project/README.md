@@ -46,6 +46,12 @@ To run this notebook, you will need the following Python libraries:
 You can install these libraries using pip:
 [bash] pip install pandas numpy matplotlib seaborn wordcloud
 
+# File Description
+ValenciaEDA.ipynb: Notebook containing the data analysis.
+reviews_I.parquet: First part of the review data, which contains past reviews in parquet format.
+reviews_II.parquet: Second part of the review data, which contains past reviews in parquet format.
+listings.csv.gz: Csv file containing the current listings with all characteristics. 
+calendar.csv.gz: Csv file containing the future looking calendar.
 
 # Usage
 Clone or download the repository containing the notebook.
@@ -58,3 +64,9 @@ Review the findings and insights provided throughout the notebook.
 # Article
 Here's the link for the blog article:
 https://medium.com/@thenada92/the-rise-of-valencia-tourism-analyzing-airbnb-data-87d2a00d0261
+
+# Acknowledgments
+Many thanks to Inside Airbnb for providing the datasets.
+Here's the link to retrieve an up to date version to re-use the same code for future analysis:
+-https://insideairbnb.com/valencia/
+-https://insideairbnb.com/get-the-data/
